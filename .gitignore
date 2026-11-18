@@ -1,0 +1,13 @@
+node_modules/
+dist/
+out/
+.data/
+.local/
+.env
+.DS_Store
+*.blend1
+.playwright-cli/
+test-results/
+__pycache__/
+.env.*
+!.env.example

@@ -1,0 +1,81 @@
+{
+  "browser": "140.0.7339.0",
+  "checks": [
+    {
+      "name": "Website, locally hosted artwork, fonts and backend load"
+    },
+    {
+      "name": "Featured scenario carousel"
+    },
+    {
+      "name": "Aircraft selection and live 3D hangar preview"
+    },
+    {
+      "name": "Map and weather configuration"
+    },
+    {
+      "name": "Scenario editor, save preset, load preset"
+    },
+    {
+      "name": "Graphics, units and local persistence survive reload"
+    },
+    {
+      "name": "Fullscreen enters and exits"
+    },
+    {
+      "name": "Live aircraft movement, gravity, balanced cruise",
+      "travel": 41
+    },
+    {
+      "name": "Keyboard roll, throttle and retractable landing gear"
+    },
+    {
+      "name": "Cockpit, orbit, pause, resume and slow motion"
+    },
+    {
+      "name": "Faults, physical detachment, falling building modules and persistent debris",
+      "sections": 2,
+      "fragments": 7
+    },
+    {
+      "name": "Actual aircraft–structure collision triggers localized breakup",
+      "before": 2,
+      "after": 4,
+      "hpBefore": 97.6,
+      "hpAfter": 68.48372559271456,
+      "detached": 5,
+      "bodies": 17,
+      "cap": 24
+    },
+    {
+      "name": "Debris body cap and lower-cost distant rubble",
+      "total": 29,
+      "active": 24,
+      "cap": 24
+    },
+    {
+      "name": "Web Audio engine and spatial mix graph",
+      "state": "running",
+      "gain": 0.06299548596143723,
+      "engine": 58.106353759765625
+    },
+    {
+      "name": "Seeded replay layout is stable across graphics presets"
+    },
+    {
+      "name": "Replay save, reconstruction, scrubbing, play and rewind",
+      "early": 0,
+      "late": 8
+    },
+    {
+      "name": "Browser registration, sign out, sign in and cloud profile restore"
+    },
+    {
+      "name": "Responsive 390px layout and mobile navigation"
+    },
+    {
+      "name": "No uncaught application or WebGL shader errors"
+    }
+  ],
+  "errors": []
+}

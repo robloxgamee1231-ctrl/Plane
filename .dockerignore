@@ -1,0 +1,11 @@
+.git
+node_modules
+dist
+out
+.data
+.local
+.env
+.env.*
+assets/blender
+test-results
+docs/screenshots
